@@ -1,8 +1,8 @@
 # Play Freeboard!
 
-## Brief Project Description
+## Project Description
 
-This repository contains a script for retreiving location-specific storm event data from the Precipitation Frequency Data Server published by the National Oceanic and Atmospheric Administration (NOAA).  Data from the storm event can be used establish or check freeboard for secondary containment berms used to control spills from storage tanks.
+This repository contains a script for retreiving location-specific storm event data from the Precipitation Frequency Data Server published by the National Oceanic and Atmospheric Administration (NOAA).  Data from the storm event can be used to establish or to evaluate freeboard for secondary containment berms used to control spills from storage tanks. See Spill Prevention, Control, and Countermeasure Plan (SPCC Plan) regulations at 40 CFR 112.8(c):  bulk storage tank containments need to have sufficient freeboard to contain precipitation.
 
 ### Credits
 
