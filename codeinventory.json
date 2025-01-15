@@ -1,14 +1,16 @@
 {
-  "name": "Open Source Projects",
-  "description": "Contains files for teams to reuse when working in and with EPA Open Source projects.",
+  "organization": "EPA",
+  "name": "play_freeboard",
+  "description": "retreive location-specific storm-event data from NOAA's precipitation frequency data server",
   "name": "MIT",
-  "URL":"https://github.com/USEPA/open-source-projects/blob/master/license.md",
+  "URL":"https://github.com/USEPA/play_freeboard",
   "usageType": "openSource",
   "tags": [
     "EPA",
-    "opensource"
+    "opensource",
+    "SPCC",
   ],
   "contact": {
-    "email": "ibarra.michelle@epa.gov"
+    "email": "Findley.Matthew@EPA.gov"
   }
 }
